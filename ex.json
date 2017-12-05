@@ -1,0 +1,102 @@
+{
+	"title": "Fransk löksoppa",
+	"description": "Billigaste maten som finns? Och gott är det - speciellt en gråkall kulen höstdag.",
+	"time": "45 minuter",
+	"date": "2016-12-03",
+	"images": {
+		"path": "1234.png"
+	},
+	"course": "starter",
+	"categories": [{
+		"name": "Enkelt"
+	}, {
+		"name": "Franska köket"
+	}],
+	"ingredients": [{
+			"name": "gula lökar",
+			"amount": 6,
+			"unit": "st"
+		},
+		{
+			"name": "smör",
+			"amount": 4,
+			"unit": "msk"
+		},
+		{
+			"name": "grönsaksbuljongtärningar",
+			"amount": 2,
+			"unit": "st"
+		},
+		{
+			"name": "vatten",
+			"amount": 1.25,
+			"unit": "dl"
+		},
+		{
+			"name": "vitt vin",
+			"amount": 2.5,
+			"unit": "dl"
+		},
+		{
+			"name": "vitpeppar",
+			"amount": 0.5,
+			"unit": "tsk"
+		},
+		{
+			"name": "lagerblad",
+			"amount": 1,
+			"unit": "st"
+		},
+		{
+			"name": "torkad timjan eller en liten kvist färsk timjan",
+			"amount": 0.5,
+			"unit": "tsk"
+		},
+		{
+			"name": "vita brödskivor",
+			"amount": 4,
+			"unit": "st"
+		},
+		{
+			"name": "grovt riven stark ost",
+			"amount": 1,
+			"unit": "dl"
+		}
+	],
+	"instruction": [{
+			"step": 1,
+			"body": "Skala och dela löken på längden. Skär tunna skivor."
+		},
+		{
+			"step": 2,
+			"body": "Bryn gyllengul (eller i alla fall genomskinlig) i smöret."
+		},
+		{
+			"step": 3,
+			"body": "Smula i buljongtärningarna, häll på vattnet och ev vinet. Peppra och lägg i timjan och lagerblad."
+		},
+		{
+			"step": 4,
+			"body": "Småputtra under lock i ca 30 minuter. Smaka av - var lite försiktig med sältan då osten ger en del i den vägen."
+		},
+		{
+			"step": 5,
+			"body": "Rosta brödet. Dela varje skiva i 9 bitar. Riv osten."
+		},
+		{
+			"step": 6,
+			"body": "Häll upp soppan i ugnsfast karott, eller ännu hellre i fyra ugnssäkra portionsskålar."
+		},
+		{
+			"step": 7,
+			"body": "Lägg brödet ovanpå och strö osten över. Peta ner brödet lite i soppan och se till att osten täcker, annar blir brödet lätt bränt."
+		},
+		{
+			"step": 8,
+			"body": "Gratinera i 250 grader (ev grill) tills osten smält och fått vacker färg."
+		}
+	],
+	"extra": [{
+		"body": "Lättlagat och vegetariskt"
+	}]
+}

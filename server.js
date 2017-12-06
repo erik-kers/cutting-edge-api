@@ -1,11 +1,11 @@
-var express = require('express'),
+const express = require('express'),
   app = express(),
   port = process.env.PORT || 3000,
   mongoose = require('mongoose'),
   Recipe = require('./api/models/cuttingEdgeModel'),
   bodyParser = require('body-parser');
 
-var routes = require('./api/routes/cuttingEdgeRoutes');
+const routes = require('./api/routes/cuttingEdgeRoutes');
 routes(app);
 
 mongoose.Promise = global.Promise;

@@ -1,6 +1,6 @@
 'use strict';
 module.exports = function (app) {
-  let recipes = require('../controllers/cuttingEdgeController');
+  let recipes = require('../controllers/recipes-controller');
 
   app.route('/recipes')
     .get(recipes.list_all_recipes)

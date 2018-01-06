@@ -5,7 +5,7 @@ module.exports = function (app) {
   app.route('/recipes')
     .get(recipes.list_all_recipes)
     .post(recipes.create_a_recipe);
-
+    
   app.route('/recipes/:recipeId')
     .get(recipes.read_a_recipe)
     .put(recipes.update_a_recipe)

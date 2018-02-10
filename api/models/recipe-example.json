@@ -1,0 +1,89 @@
+{
+    "title": "Amerikanska pannkakor",
+    "description": "Vispad äggvita gör dessa amerikanska pannkakor fluffiga och fina. Gör många, de går garanterat åt!",
+    "time": "25 minuter",
+    "course": "starter",
+    "categories": [
+        {
+            "name": "Frukost"
+        },
+        {
+            "name": "Enkelt"
+        },
+        {
+            "name": "Amerikanska"
+        }
+    ],
+    "ingredients": [
+        {
+            "name": "äggvitor",
+            "amount": 4,
+            "unit": "st"
+        },
+        {
+            "name": "äggulor",
+            "amount": 4,
+            "unit": "st"
+        },
+        {
+            "name": "mjöl",
+            "amount": 2.5,
+            "unit": "dl"
+        },
+        {
+            "name": "socker",
+            "amount": 3,
+            "unit": "msk"
+        },
+        {
+            "name": "salt",
+            "amount": 0.25,
+            "unit": "tsk"
+        },
+        {
+            "name": "mjölk",
+            "amount": 2.5,
+            "unit": "dl"
+        },
+        {
+            "name": "gräddfil",
+            "amount": 3,
+            "unit": "msk"
+        },
+        {
+            "name": "smält smör",
+            "amount": 50,
+            "unit": "g"
+        }
+    ],
+    "instruction": [
+        {
+            "step": 1,
+            "body": "Vispa upp äggulor med en elvisp"
+        },
+        {
+            "step": 2,
+            "body": "Blanda ihop mjöl, socker, salt, gulorna, mjölk, gräddfil och smält smör i en medelstor bunke. Blanda väl"
+        },
+        {
+            "step": 3,
+            "body": "Vispa äggvitorna för sig till mjuk maräng och vänd försiktigt ner i smeten"
+        },
+        {
+            "step": 4,
+            "body": "Stek pannkakorna i medelvarm panna med smör i ungefär 1-2 minuter på vardera sida"
+        },
+        {
+            "step": 5,
+            "body": "Servera dina amerikanska pannkakor med färsk frukt, hackade cashewnötter, lönnsirap och grekisk yoghurt"
+        }
+    ],
+    "extra": [
+        {
+            "body": "Mastigt till frukost"
+        }
+    ]
+}
+
+
+

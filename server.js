@@ -9,7 +9,7 @@ const routes = require('./api/routes/recipes-routes');
 routes(app);
 
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb://localhost:27017/cuttingedgedb', { useMongoClient: true });
+mongoose.connect('mongodb://localhost:27017/cutting-edge-db', { useMongoClient: true });
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());

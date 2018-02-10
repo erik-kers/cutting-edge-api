@@ -15,13 +15,6 @@ let RecipeSchema = new Schema({
     type: Date,
     default: Date.now
   },
-  images: [
-    {
-      path: {
-        type: String
-      }
-    }
-  ],
   course: {
     type: String,
     enum: [
